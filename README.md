@@ -1,0 +1,2 @@
+# SortNutsNBolts
+A JAVA program which uses randomized Quick Sort where a random pivot is selected every time the program is executed. It takes 2 text files as arguments which contains random numbers. The program correctly sorts the numbers from the text file and displays the sorted numbers on the screen. This program also uses Array Lists, Recursion and Swapping methods to display the correct output.
